@@ -1,0 +1,39 @@
+body {
+    background-color: deepskyblue;
+    color: darkred;
+    font-size: x-large;
+    font-family: 'Faster One', cursive;
+    font-family: 'Simonetta', cursive;
+    font-family: 'Inconsolata', monospace;
+}
+
+h1{
+    font-size: 250%;
+    font-weight: bold;
+    background-color: #3f6680;
+}
+
+h2{
+   font-size: 150%;
+    font-weight: initial;
+    background-color: #201c8b;
+}
+
+li{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 18px;
+    background: white;
+    text-decoration: none;
+}
+li:hover {
+    background: pink;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+a {
+    text-decoration: none;
+}
